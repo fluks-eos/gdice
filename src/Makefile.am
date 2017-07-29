@@ -2,8 +2,8 @@ include $(top_srcdir)/common.mk
 
 generated_parser_files = lex.yy.c de.tab.c de.tab.h
 
-bin_PROGRAMS = gdice
-gdice_SOURCES = \
+bin_PROGRAMS = com.github.fluks-eos.gdice
+com_github_fluks_eos_gdice_SOURCES = \
 	main.c 		\
 	diceexpr.h 	\
 	numflow.h 	\
@@ -12,7 +12,7 @@ gdice_SOURCES = \
 	str.c 		\
 	str.h
 
-nodist_gdice_SOURCES = $(generated_parser_files)
+nodist_com_github_fluks_eos_gdice_SOURCES = $(generated_parser_files)
 
 lex.yy.c: de.l
 	$(LEX) $<

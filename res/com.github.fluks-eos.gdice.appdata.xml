@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 fluks <fluks.github+fluks-eos@gmail.com> -->
+<component type="desktop">
+  <id>com.github.fluks-eos.gdice.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0</project_license>
+  <name>GDice</name>
+  <summary>A dice roller</summary>
+  <description>
+    <p>A dice rolling program with various different dices.</p>
+  </description>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <developer_name>fluks</developer_name>
+
+  <custom>
+    <value key="x-appcenter-color-primary">#339966</value>
+    <value key="x-appcenter-color-primary-text">#ffffff</value>
+    <value key="x-appcenter-suggested-price">3</value>
+  </custom>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/fluks-eos/gdice/master/gdice.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/fluks-eos/gdice</url>
+  <url type="bugtracker">https://github.com/fluks-eos/gdice/issues</url>
+  <url type="help">https://github.com/fluks-eos/gdice</url>
+
+  <update_contact>fluks.github+fluks-eos@gmail.com</update_contact>
+</component>

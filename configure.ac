@@ -2,8 +2,8 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([gdice], [0.1.5], [https://github.com/fluks/gdice/issues], [], \
-    [https://github.com/fluks/gdice])
+AC_INIT([com.github.fluks-eos.gdice], [1.0.0], [https://github.com/fluks-eos/gdice/issues], [], \
+    [https://github.com/fluks-eos/gdice])
 AM_INIT_AUTOMAKE([foreign -Wall -Werror])
 AC_CONFIG_SRCDIR([src/main.c])
 AC_CONFIG_HEADERS([config.h])
@@ -37,6 +37,10 @@ AC_CHECK_FUNCS([memset])
 AC_CONFIG_FILES([Makefile
                  src/Makefile
                  res/Makefile
+                 res/32/Makefile
+                 res/48/Makefile
+                 res/64/Makefile
+                 res/128/Makefile
                  po/Makefile.in])
 
 AC_ARG_ENABLE([gstreamer],
@@ -51,7 +55,7 @@ LIBS="$GTK_LIBS $GLIB_LIBS $GSTREAMER_LIBS"
 AC_SUBST([AM_CPPFLAGS],
     ['$(GTK_CFLAGS) $(GLIB_CFLAGS) $(GSTREAMER_CFLAGS)'])
 
-GETTEXT_PACKAGE=gdice
+GETTEXT_PACKAGE=com.github.fluks-eos.gdice
 AC_SUBST(GETTEXT_PACKAGE)
 AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"],
                    [The domain to use with gettext])

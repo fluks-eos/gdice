@@ -1,17 +1,17 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: gdice
-Source: https://github.com/fluks/gdice
+Upstream-Name: com.github.fluks-eos.gdice
+Source: https://github.com/fluks-eos/gdice
 
 Files: *
-Copyright: 2014-2017 fluks <fluks.github@gmail.com>
+Copyright: 2014-2017 fluks <fluks.github+fluks-eos@gmail.com>
 License: GPL-2.0+
 
 Files: debian/*
-Copyright: 2017 fluks <fluks.github@gmail.com>
+Copyright: 2017 fluks <fluks.github+fluks-eos@gmail.com>
 License: GPL-2.0+
 
 Files: res/dices.ogg
-Copyright: 2014-2017 fluks <fluks.github@gmail.com>
+Copyright: 2014-2017 fluks <fluks.github+fluks-eos@gmail.com>
 License: CC-BY-SA-4.0
 
 Files: res/add_12x12.svg

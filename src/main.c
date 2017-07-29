@@ -742,7 +742,7 @@ append_dice_expr_completion(GtkEntry *entry) {
  */
 static void
 load_preferences(GtkBuilder *builder) {
-    GSettings *settings = g_settings_new("com.github.fluks.GDice");
+    GSettings *settings = g_settings_new("com.github.fluks-eos.gdice");
     GObject *object = gtk_builder_get_object(builder, "sound_checkbox");
     g_settings_bind(settings, "sound", object, "active", G_SETTINGS_BIND_DEFAULT);
     object = gtk_builder_get_object(builder, "verbose");

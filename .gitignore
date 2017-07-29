@@ -18,7 +18,7 @@ Makefile
 *.status
 *.log
 *.in*
-!res/gdice.desktop.in
+!res/com.github.fluks-eos.gdice.desktop.in
 config.h
 autom4te.cache
 res/#gdice.glade#

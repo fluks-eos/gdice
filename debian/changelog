@@ -1,5 +1,5 @@
-gdice (0.1.5-1) xenial; urgency=low
+com.github.fluks-eos.gdice (1.0.0) xenial; urgency=low
 
   * Initial release.
 
- -- fluks <fluks.github@gmail.com>  Mon, 24 Apr 2017 01:34:36 +0300
+ -- fluks <fluks.github+fluks-eos@gmail.com>  Sat, 29 Jul 2017 05:13:09 +0300

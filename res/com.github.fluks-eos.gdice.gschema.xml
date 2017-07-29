@@ -1,5 +1,5 @@
 <schemalist>
-  <schema id="com.github.fluks.GDice" path="/com/github/fluks/GDice/">
+  <schema id="com.github.fluks-eos.gdice" path="/com/github/fluks-eos/gdice/">
     <key name="sound" type="b">
       <default>true</default>
     </key>
