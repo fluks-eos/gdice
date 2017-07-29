@@ -1,7 +1,7 @@
 Description
 ===========
 
-A GTK+ 3 dice with various different dices.
+A dice program with various different dices for Elementary OS.
 
 Dependencies
 ============
@@ -28,4 +28,4 @@ make uninstall
 Screenshot
 ==========
 
-![gdice](https://github.com/fluks/gdice/raw/master/gdice.png)
+![gdice](https://github.com/fluks-eos/gdice/raw/master/gdice.png)
