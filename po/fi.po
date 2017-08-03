@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gdice\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-24 12:54+0300\n"
+"POT-Creation-Date: 2017-03-04 20:03+0200\n"
 "PO-Revision-Date: 2017-03-04 20:47+0200\n"
 "Last-Translator: fluks <fluks.github@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,55 +17,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../res/com.github.fluks-eos.gdice.desktop.in.h:1
+#: ../data/com.github.fluks-eos.gdice.desktop.in.h:1
 msgid "Dice Program"
 msgstr "Noppaohjelma"
 
-#: ../res/com.github.fluks-eos.gdice.desktop.in.h:2
+#: ../data/com.github.fluks-eos.gdice.desktop.in.h:2
 msgid "Roll dices"
 msgstr "Heitä noppia"
 
-#: ../res/gdice.glade.h:1
+#: ../data/gdice.glade.h:1
 msgid "gdice"
 msgstr ""
 
-#: ../res/gdice.glade.h:2
+#: ../data/gdice.glade.h:2
 msgid "ex_pr"
 msgstr ""
 
-#: ../res/gdice.glade.h:3
+#: ../data/gdice.glade.h:3
 msgid "d_4"
 msgstr ""
 
-#: ../res/gdice.glade.h:4
+#: ../data/gdice.glade.h:4
 msgid "d_6"
 msgstr ""
 
-#: ../res/gdice.glade.h:5
+#: ../data/gdice.glade.h:5
 msgid "d_8"
 msgstr ""
 
-#: ../res/gdice.glade.h:6
+#: ../data/gdice.glade.h:6
 msgid "d_10"
 msgstr ""
 
-#: ../res/gdice.glade.h:7
+#: ../data/gdice.glade.h:7
 msgid "_d20"
 msgstr ""
 
-#: ../res/gdice.glade.h:8
+#: ../data/gdice.glade.h:8
 msgid "d1_2"
 msgstr ""
 
-#: ../res/gdice.glade.h:9
+#: ../data/gdice.glade.h:9
 msgid "d1_00"
 msgstr ""
 
-#: ../res/gdice.glade.h:10
+#: ../data/gdice.glade.h:10
 msgid "_mod"
 msgstr ""
 
-#: ../res/gdice.glade.h:11
+#: ../data/gdice.glade.h:11
 msgid ""
 "Example dice expression:\n"
 "3d6&lt;&gt;1 - 3d10&lt;2 +2"
@@ -73,7 +73,7 @@ msgstr ""
 "Esimerkki noppalausekkeesta:\n"
 "3d6&lt;&gt;1 - 3d10&lt;2 +2"
 
-#: ../res/gdice.glade.h:13
+#: ../data/gdice.glade.h:13
 msgid ""
 "Example dice expression:\n"
 "3d6<>1 - 3d10<2 +2"
@@ -81,39 +81,39 @@ msgstr ""
 "Esimerkki noppalausekkeesta:\n"
 "3d6<>1 - 3d10<2 +2"
 
-#: ../res/gdice.glade.h:15
+#: ../data/gdice.glade.h:15
 msgid "_Roll"
 msgstr "_Heitä"
 
-#: ../res/gdice.glade.h:16
+#: ../data/gdice.glade.h:16
 msgid "_File"
 msgstr "_Tiedosto"
 
-#: ../res/gdice.glade.h:17
+#: ../data/gdice.glade.h:17
 msgid "gtk-quit"
 msgstr "_Lopeta"
 
-#: ../res/gdice.glade.h:18
+#: ../data/gdice.glade.h:18
 msgid "_Edit"
 msgstr "_Muokkaa"
 
-#: ../res/gdice.glade.h:19
+#: ../data/gdice.glade.h:19
 msgid "_Sound"
 msgstr "_Äänet"
 
-#: ../res/gdice.glade.h:20
+#: ../data/gdice.glade.h:20
 msgid "_Verbose"
 msgstr "_Yksityiskohtainen"
 
-#: ../res/gdice.glade.h:21
+#: ../data/gdice.glade.h:21
 msgid "Re_set"
 msgstr "T_yhjennä"
 
-#: ../res/gdice.glade.h:22
+#: ../data/gdice.glade.h:22
 msgid "d_N"
 msgstr ""
 
-#: ../res/gdice.glade.h:23
+#: ../data/gdice.glade.h:23
 msgid "_x"
 msgstr ""
 

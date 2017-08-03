@@ -10,20 +10,20 @@ Files: debian/*
 Copyright: 2017 fluks <fluks.github+fluks-eos@gmail.com>
 License: GPL-2.0+
 
-Files: res/dices.ogg
+Files: data/dices.ogg
 Copyright: 2014-2017 fluks <fluks.github+fluks-eos@gmail.com>
 License: CC-BY-SA-4.0
 
-Files: res/add_12x12.svg
+Files: data/add_12x12.svg
 Copyright: 2008-2017 Jean Victor Balin <jean.victor.balin@gmail.com>
 License: public-domain
 
-Files: res/remove_12x12.svg
+Files: data/remove_12x12.svg
 Copyright: 2010-2017 jhnri4
 Comment: https://openclipart.org/user-detail/jhnri4
 License: public-domain
 
-Files: res/gdice.svg
+Files: data/gdice.svg
 Copyright: 2009-2017 Krdan 
 Comment: https://commons.wikimedia.org/wiki/User:Krdan
 License: CC-BY-3.0

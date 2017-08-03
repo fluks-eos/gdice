@@ -1,4 +1,4 @@
-gdice
+src/com.github.fluks-eos.gdice
 *.o
 tags
 src/de.tab.*
@@ -18,12 +18,12 @@ Makefile
 *.status
 *.log
 *.in*
-!res/com.github.fluks-eos.gdice.desktop.in
+!data/com.github.fluks-eos.gdice.desktop.in
 config.h
 autom4te.cache
-res/#gdice.glade#
-res/gdice.glade~
-res/*.valid
+data/#gdice.glade#
+data/gdice.glade~
+data/*.valid
 po/Makevars.template
 po/POTFILES
 !po/POTFILES.in
@@ -41,4 +41,4 @@ config.guess
 config.rpath
 config.sub
 m4
-res/gdice.desktop
+data/gdice.desktop

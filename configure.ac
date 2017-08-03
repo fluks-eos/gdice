@@ -36,11 +36,11 @@ AC_FUNC_REALLOC
 AC_CHECK_FUNCS([memset])
 AC_CONFIG_FILES([Makefile
                  src/Makefile
-                 res/Makefile
-                 res/32/Makefile
-                 res/48/Makefile
-                 res/64/Makefile
-                 res/128/Makefile
+                 data/Makefile
+                 data/32/Makefile
+                 data/48/Makefile
+                 data/64/Makefile
+                 data/128/Makefile
                  po/Makefile.in])
 
 AC_ARG_ENABLE([gstreamer],
