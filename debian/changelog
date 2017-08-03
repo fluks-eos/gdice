@@ -1,3 +1,9 @@
+com.github.fluks-eos.gdice (1.0.1) xenial; urgency=low
+
+  * Rename res directory to data to appease AppCenter tests.
+
+ -- fluks <fluks.github+fluks-eos@gmail.com>  Thu, 03 Aug 2017 05:43:38 +0300
+
 com.github.fluks-eos.gdice (1.0.0) xenial; urgency=low
 
   * Initial release.

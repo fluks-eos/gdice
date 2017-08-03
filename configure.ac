@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([com.github.fluks-eos.gdice], [1.0.0], [https://github.com/fluks-eos/gdice/issues], [], \
+AC_INIT([com.github.fluks-eos.gdice], [1.0.1], [https://github.com/fluks-eos/gdice/issues], [], \
     [https://github.com/fluks-eos/gdice])
 AM_INIT_AUTOMAKE([foreign -Wall -Werror])
 AC_CONFIG_SRCDIR([src/main.c])
