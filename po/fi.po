@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gdice\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-09 05:38+0300\n"
+"POT-Creation-Date: 2017-08-09 05:50+0300\n"
 "PO-Revision-Date: 2017-03-04 20:47+0200\n"
 "Last-Translator: fluks <fluks.github@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -109,14 +109,22 @@ msgstr "T_yhjennä"
 msgid "d_N"
 msgstr ""
 
-#: ../data/gdice.glade.h:22
+#: ../data/gdice.glade.h:22 ../src/main.c:265
+msgid "Number of sides"
+msgstr "Sivujen lukumäärä"
+
+#: ../data/gdice.glade.h:23
 msgid "_x"
 msgstr ""
 
-#: ../src/main.c:429 ../src/main.c:448 ../src/main.c:488
+#: ../data/gdice.glade.h:24 ../src/main.c:275
+msgid "Number of rolls"
+msgstr "Heittojen lukumäärä"
+
+#: ../src/main.c:431 ../src/main.c:450 ../src/main.c:490
 msgid "integer overflow\n"
 msgstr "kokonaisluvun ylivuoto\n"
 
-#: ../src/main.c:482
+#: ../src/main.c:484
 msgid "syntax error\n"
 msgstr "syntaksivirhe\n"
