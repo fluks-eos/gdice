@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-04 20:03+0200\n"
+"POT-Creation-Date: 2017-08-09 05:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgid "Roll dices"
 msgstr ""
 
 #: ../data/gdice.glade.h:1
-msgid "gdice"
+msgid "GDice"
 msgstr ""
 
 #: ../data/gdice.glade.h:2
@@ -86,30 +86,26 @@ msgid "_File"
 msgstr ""
 
 #: ../data/gdice.glade.h:17
-msgid "gtk-quit"
-msgstr ""
-
-#: ../data/gdice.glade.h:18
 msgid "_Edit"
 msgstr ""
 
-#: ../data/gdice.glade.h:19
+#: ../data/gdice.glade.h:18
 msgid "_Sound"
 msgstr ""
 
-#: ../data/gdice.glade.h:20
+#: ../data/gdice.glade.h:19
 msgid "_Verbose"
 msgstr ""
 
-#: ../data/gdice.glade.h:21
+#: ../data/gdice.glade.h:20
 msgid "Re_set"
 msgstr ""
 
-#: ../data/gdice.glade.h:22
+#: ../data/gdice.glade.h:21
 msgid "d_N"
 msgstr ""
 
-#: ../data/gdice.glade.h:23
+#: ../data/gdice.glade.h:22
 msgid "_x"
 msgstr ""
 
